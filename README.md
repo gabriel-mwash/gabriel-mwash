@@ -19,7 +19,6 @@ Tools:
 - 💬 Ask me about Anything from technology, litrature and philosophy
 - 📫 How to reach me: Gabriel Mwashighadi tell: 0728806140 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was born on Christmas hence the name "Angel Gabriel"
 
 ![image](https://github.com/gabriel-mwash/gabriel-mwash/assets/124787358/94945ae7-c9b4-441d-a335-7969a7593de9)
 ![image](https://github.com/gabriel-mwash/gabriel-mwash/assets/124787358/481f8d1d-cf95-4428-88e0-520f4f90942f)
