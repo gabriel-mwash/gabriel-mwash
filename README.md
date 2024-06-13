@@ -4,7 +4,7 @@ I am passionate about front end web development, designing great UIs and working
 Currently I am learning more about front end development, networking, databases, ML and AI.
 
 Skills: 
-python programmer |  front-end developer | database developer
+python programmer |  front-end developer | database engineer
 
 Tools:
 
