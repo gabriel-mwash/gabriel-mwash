@@ -4,12 +4,12 @@ I am passionate about front end web development, designing great UIs and working
 Currently I am learning more about front end development, networking, databases, ML and AI.
 
 Skills: 
-python programmer |  front-end developer | database engineer
+python programmer |  front-end developer | database engineer | RPA Developer | PHP engineer 
 
 Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,php,python,aws,mysql,mongodb,vim,bash,linux,git,vscode,docker,kurbenetes,&perline=6)](https://skillicons.dev)
 
 - 🔭 I’m currently working on github, mongodb and huawei certification and a front end project
 - 🌱 I’m currently learning mongodb, advanced sql, html5, js
