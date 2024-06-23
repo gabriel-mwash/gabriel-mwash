@@ -9,7 +9,7 @@ python programmer |  front-end developer | database engineer
 Tools:
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,python,mongo,mysql,ruby,git,neovim,github&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 - 🔭 I’m currently working on github, mongodb and huawei certification and a front end project
 - 🌱 I’m currently learning mongodb, advanced sql, html5, js
