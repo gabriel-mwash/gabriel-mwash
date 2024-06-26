@@ -9,7 +9,7 @@ python programmer |  front-end developer | database engineer | RPA Developer | P
 Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,php,python,aws,mysql,mongodb,vim,bash,linux,git,vscode,docker,kubernetes,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,php,python,aws,mysql,mongodb,vim,bash,linux,git,vscode,docker,kubernetes,laravel&perline=6)](https://skillicons.dev)
 
 - 🔭 I’m currently working on github, mongodb and huawei certification and a front end project
 - 🌱 I’m currently learning mongodb, advanced sql, html5, js
